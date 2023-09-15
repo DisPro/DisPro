@@ -48,7 +48,7 @@ Y8   8P o.`Y8b 88""
   88    YbodP   YbodP  88ood8 8bodP'
 -->
 
-<<div align="center">
+<div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" height="40" alt="Visual Studio Code logo" />
   <br />
   <b>Visual Studio Code</b>
