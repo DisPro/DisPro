@@ -49,7 +49,7 @@ Y8   8P o.`Y8b 88""
 -->
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" height="40" alt="Visual Studio Code logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="40" alt="Visual Studio Code logo" />
   <br />
   <b>Visual Studio Code</b>
 </div>
