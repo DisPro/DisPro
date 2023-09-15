@@ -52,8 +52,12 @@ Y8   8P o.`Y8b 88""
 
 <a href="https://code.visualstudio.com/">
 <img src="https://cdn.simpleicons.org/visualstudiocode/true" height="40" alt="Visual Studio Code logo"  />
-
+ 
 Visual Studio Code
+<a href="https://www.jetbrains.com/fr-fr/idea/">
+<img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" height="40" alt="Intellij logo"  />
+
+Intellj Idea
 </a>
 
 </a>
