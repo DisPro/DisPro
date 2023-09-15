@@ -112,7 +112,7 @@ Yb   dP o.`Y8b
 
 <img src="https://cdn.simpleicons.org/windows10/true/" height="40" alt="Microsoft Windaube (windows) 10 logo"  />
 
-Windows 10 (fin' windaube je dirais)
+Windows 10 
 
 </div>
 </details>
@@ -167,7 +167,7 @@ Pour me contacter, vous pouvez utiliser ces réseaux :
 
 ---
 
-###### ©Dispro 2021-2023
+###### ©DisPro 2021-2023
 
 ###### [icon for this readme.md](https://simpleicons.org/)
 
