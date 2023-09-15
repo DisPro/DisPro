@@ -55,8 +55,8 @@ Y8   8P o.`Y8b 88""
 </div>
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/jetbrains_intellij-idea/jetbrains_intellij-idea-icon.svg" height="40" alt="IntelliJ IDEA logo" />
-  <br />
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA logo.">
+ <br />
   <b>IntelliJ IDEA</b>
 </div>
 
