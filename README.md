@@ -80,7 +80,7 @@ Y8   8P o.`Y8b 88""
   <br /><br />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="Node.JS logo" />
   <br />
-  <b>NodeJS (base)</b>
+  <b>NodeJS</b>
 </div>
 
 
@@ -97,9 +97,8 @@ Y8   8P o.`Y8b 88""
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/react/true/" height="40" alt="React logo"  />
-
-React
+ 
+Rien acctuellement
 
 </div>
 </details>
