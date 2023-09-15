@@ -71,14 +71,16 @@ Visual Studio Code
 88      YbodP  88  Yb  YboodP     88  Yb 88  Y8  YbodP     YP  YP
 -->
 
-
 <div align="center">
-
-<img src=https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" alt="Java logo"  />
-
-NodeJS (base)
-
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" alt="Java logo" />
+  <br />
+  <b>Java</b>
+  <br /><br />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="Node.JS logo" />
+  <br />
+  <b>NodeJS (base)</b>
 </div>
+
 
 </details>
 
