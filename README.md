@@ -52,12 +52,14 @@ Y8   8P o.`Y8b 88""
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" height="40" alt="Visual Studio Code logo" />
   <br />
   <b>Visual Studio Code</b>
-  <br /><br />
+</div>
+
+<div align="center">
   <img src="https://www.vectorlogo.zone/logos/jetbrains_intellij-idea/jetbrains_intellij-idea-icon.svg" height="40" alt="IntelliJ IDEA logo" />
   <br />
   <b>IntelliJ IDEA</b>
-
 </div>
+
 </details>
 
 <details>
