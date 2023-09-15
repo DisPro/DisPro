@@ -48,19 +48,14 @@ Y8   8P o.`Y8b 88""
   88    YbodP   YbodP  88ood8 8bodP'
 -->
 
-<div align="center">
-
-<a href="https://code.visualstudio.com/">
-<img src="https://cdn.simpleicons.org/visualstudiocode/true" height="40" alt="Visual Studio Code logo"  />
- 
-Visual Studio Code
-<a href="https://www.jetbrains.com/fr-fr/idea/">
-<img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" height="40" alt="Intellij logo"  />
-
-Intellj Idea
-</a>
-
-</a>
+<<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" height="40" alt="Visual Studio Code logo" />
+  <br />
+  <b>Visual Studio Code</b>
+  <br /><br />
+  <img src="https://www.vectorlogo.zone/logos/jetbrains_intellij-idea/jetbrains_intellij-idea-icon.svg" height="40" alt="IntelliJ IDEA logo" />
+  <br />
+  <b>IntelliJ IDEA</b>
 
 </div>
 </details>
