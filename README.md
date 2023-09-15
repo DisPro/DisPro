@@ -72,9 +72,9 @@ Visual Studio Code
 -->
 
 <div align="center">
-<img src="https://dev.java/assets/images/java-affinity-logo-icode-lg.png" height="40" alt="Node.JS logo"  />
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" alt="Node.JS logo"  />
 
-Java *
+Java
 
 </div>
 </details>
